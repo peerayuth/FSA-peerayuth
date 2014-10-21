@@ -1,0 +1,13 @@
+{
+  "name": "assignment01",
+  "version": "0.0.0",
+  "description": "FSA Assignment 01",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FSA"
+  ],
+  "author": "P",
+  "license": "ISC"
+}
